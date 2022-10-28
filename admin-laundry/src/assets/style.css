@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;600&family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;600&family=Merriweather&family=Roboto+Condensed:wght@700&display=swap');
+.background_login{
+    background-image: url("../bg\ londry.png");
+    min-height: 100vh;
+}
+
+/* .background_home{
+    background-image: url("../halo.jpg");
+    width: auto;
+} */
+
+.login_title{
+    font-family: 'Hind Siliguri ';
+    font-size: 35px;
+}
+.login_title1{
+    font-family: 'Hind Siliguri';
+    color:white;
+
+}
+.halo{
+    font-family: 'Merriweather';
+    font-size: 15px;
+    /* color:bisque; */
+}
+.bg1{
+    background-color: black;
+}
+.sbm{
+    color: bisque;
+}
+
+.btn{
+    background-color:burlywood;
+}
